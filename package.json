@@ -1,0 +1,19 @@
+{
+  "name": "reacttictactoe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe using react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12345aaw/ReactTicTacToe.git"
+  },
+  "author": "Andrew Willis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12345aaw/ReactTicTacToe/issues"
+  },
+  "homepage": "https://github.com/12345aaw/ReactTicTacToe#readme"
+}
